@@ -1,6 +1,6 @@
-title: Joyce Medina - Blog
-author: Joyce Medina
-email: joiscemedina@gmail.com
+title: Franklin Cuesta
+author: Franklin C.
+email: andrescuesta19@hotmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -12,21 +12,21 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Joyce Medina
-  tagline: Estudiante de Software
+  name: Franklin C.
+  tagline: Estudiante UG
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
   social_links:
-    twitter: Jonms28
-    github:  JoyceMedina
+    twitter: franklin.cuesta.39982
+    github:  franklingc2000
     # linkedIn: in/thelehhman
     rss: rss
     # dribbble: jekyll
-    facebook: JoycemedinaS
+    facebook: franklin.cuesta.39982
     # flickr:   jekyll
-    instagram: jnms.ns
+    instagram: Franklin_Cuesta19
     # linkedin: jekyll
     # pinterest: jekyll
     # youtube: jekyll
